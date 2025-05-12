@@ -1,0 +1,120 @@
+[
+  {
+    "label": "全国",
+    "value": "all",
+    "children": [
+      {
+        "label": "北京市",
+        "value": "beijing",
+        "children": [
+          {
+            "label": "东城区",
+            "value": "dongcheng"
+          },
+          {
+            "label": "西城区",
+            "value": "xicheng"
+          },
+          {
+            "label": "朝阳区",
+            "value": "chaoyang"
+          },
+          {
+            "label": "海淀区",
+            "value": "haidian"
+          }
+        ]
+      },
+      {
+        "label": "上海市",
+        "value": "shanghai",
+        "children": [
+          {
+            "label": "黄浦区",
+            "value": "huangpu"
+          },
+          {
+            "label": "徐汇区",
+            "value": "xuhui"
+          },
+          {
+            "label": "静安区",
+            "value": "jingan"
+          },
+          {
+            "label": "浦东新区",
+            "value": "pudong"
+          }
+        ]
+      },
+      {
+        "label": "广东省",
+        "value": "guangdong",
+        "children": [
+          {
+            "label": "广州市",
+            "value": "guangzhou",
+            "children": [
+              {
+                "label": "天河区",
+                "value": "tianhe"
+              },
+              {
+                "label": "白云区",
+                "value": "baiyun"
+              }
+            ]
+          },
+          {
+            "label": "深圳市",
+            "value": "shenzhen",
+            "children": [
+              {
+                "label": "福田区",
+                "value": "futian"
+              },
+              {
+                "label": "南山区",
+                "value": "nanshan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "江苏省",
+        "value": "jiangsu",
+        "children": [
+          {
+            "label": "南京市",
+            "value": "nanjing",
+            "children": [
+              {
+                "label": "玄武区",
+                "value": "xuanwu"
+              },
+              {
+                "label": "秦淮区",
+                "value": "qinhuai"
+              }
+            ]
+          },
+          {
+            "label": "苏州市",
+            "value": "suzhou",
+            "children": [
+              {
+                "label": "姑苏区",
+                "value": "gusu"
+              },
+              {
+                "label": "工业园区",
+                "value": "sipac"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
