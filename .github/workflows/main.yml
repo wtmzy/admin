@@ -28,9 +28,9 @@ jobs:
         WELCOME: "ssh scp ssh pipelines"
         LASTSSH: "Doing something after copying"
       with:
-        host: "60.205.3.84"
-        user: "root"
-        pass: "940219"
+        host: ${{ secrets.USER_HOST }}
+        user: ${{ secrets.USER_NAME }}
+        pass: ${{ secrets.USER_PASS }}
         connect_timeout: 10s
         local: './dist/*'
-        remote: /web/html/dist
+        remote: /home/www/dist
