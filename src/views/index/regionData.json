@@ -22,6 +22,14 @@
           {
             "label": "海淀区",
             "value": "haidian"
+          },
+          {
+            "label": "丰台区",
+            "value": "fengtai"
+          },
+          {
+            "label": "石景山区",
+            "value": "shijingshan"
           }
         ]
       },
@@ -44,6 +52,14 @@
           {
             "label": "浦东新区",
             "value": "pudong"
+          },
+          {
+            "label": "长宁区",
+            "value": "changning"
+          },
+          {
+            "label": "普陀区",
+            "value": "putuo"
           }
         ]
       },
@@ -62,6 +78,14 @@
               {
                 "label": "白云区",
                 "value": "baiyun"
+              },
+              {
+                "label": "越秀区",
+                "value": "yuexiu"
+              },
+              {
+                "label": "海珠区",
+                "value": "haizhu"
               }
             ]
           },
@@ -76,6 +100,42 @@
               {
                 "label": "南山区",
                 "value": "nanshan"
+              },
+              {
+                "label": "罗湖区",
+                "value": "luohu"
+              },
+              {
+                "label": "龙岗区",
+                "value": "longgang"
+              }
+            ]
+          },
+          {
+            "label": "珠海市",
+            "value": "zhuhai",
+            "children": [
+              {
+                "label": "香洲区",
+                "value": "xiangzhou"
+              },
+              {
+                "label": "斗门区",
+                "value": "doumen"
+              }
+            ]
+          },
+          {
+            "label": "东莞市",
+            "value": "dongguan",
+            "children": [
+              {
+                "label": "南城街道",
+                "value": "nancheng"
+              },
+              {
+                "label": "东城街道",
+                "value": "dongcheng"
               }
             ]
           }
@@ -96,6 +156,14 @@
               {
                 "label": "秦淮区",
                 "value": "qinhuai"
+              },
+              {
+                "label": "建邺区",
+                "value": "jianye"
+              },
+              {
+                "label": "鼓楼区",
+                "value": "gulou"
               }
             ]
           },
@@ -110,8 +178,386 @@
               {
                 "label": "工业园区",
                 "value": "sipac"
+              },
+              {
+                "label": "吴中区",
+                "value": "wuzhong"
+              },
+              {
+                "label": "相城区",
+                "value": "xiangcheng"
               }
             ]
+          },
+          {
+            "label": "无锡市",
+            "value": "wuxi",
+            "children": [
+              {
+                "label": "梁溪区",
+                "value": "liangxi"
+              },
+              {
+                "label": "锡山区",
+                "value": "xishan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "浙江省",
+        "value": "zhejiang",
+        "children": [
+          {
+            "label": "杭州市",
+            "value": "hangzhou",
+            "children": [
+              {
+                "label": "西湖区",
+                "value": "xihu"
+              },
+              {
+                "label": "上城区",
+                "value": "shangcheng"
+              },
+              {
+                "label": "下城区",
+                "value": "xiacheng"
+              }
+            ]
+          },
+          {
+            "label": "宁波市",
+            "value": "ningbo",
+            "children": [
+              {
+                "label": "海曙区",
+                "value": "haishu"
+              },
+              {
+                "label": "江北区",
+                "value": "jiangbei"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "四川省",
+        "value": "sichuan",
+        "children": [
+          {
+            "label": "成都市",
+            "value": "chengdu",
+            "children": [
+              {
+                "label": "武侯区",
+                "value": "wuhou"
+              },
+              {
+                "label": "锦江区",
+                "value": "jinjiang"
+              },
+              {
+                "label": "青羊区",
+                "value": "qingyang"
+              }
+            ]
+          },
+          {
+            "label": "绵阳市",
+            "value": "mianyang",
+            "children": [
+              {
+                "label": "涪城区",
+                "value": "fucheng"
+              },
+              {
+                "label": "游仙区",
+                "value": "youxian"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "湖北省",
+        "value": "hubei",
+        "children": [
+          {
+            "label": "武汉市",
+            "value": "wuhan",
+            "children": [
+              {
+                "label": "武昌区",
+                "value": "wuchang"
+              },
+              {
+                "label": "汉口区",
+                "value": "hankou"
+              },
+              {
+                "label": "汉阳区",
+                "value": "hanyang"
+              }
+            ]
+          },
+          {
+            "label": "宜昌市",
+            "value": "yichang",
+            "children": [
+              {
+                "label": "西陵区",
+                "value": "xiling"
+              },
+              {
+                "label": "伍家岗区",
+                "value": "wujiagang"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "山西省",
+        "value": "shanxi",
+        "children": [
+          {
+            "label": "太原市",
+            "value": "taiyuan",
+            "children": [
+              {
+                "label": "小店区",
+                "value": "xiaodian"
+              },
+              {
+                "label": "迎泽区",
+                "value": "yingze"
+              },
+              {
+                "label": "杏花岭区",
+                "value": "xinghualing"
+              }
+            ]
+          },
+          {
+            "label": "大同市",
+            "value": "datong",
+            "children": [
+              {
+                "label": "平城区",
+                "value": "pingcheng"
+              },
+              {
+                "label": "云冈区",
+                "value": "yungang"
+              }
+            ]
+          },
+          {
+            "label": "晋中市",
+            "value": "jinzhong",
+            "children": [
+              {
+                "label": "榆次区",
+                "value": "yuci"
+              },
+              {
+                "label": "太谷区",
+                "value": "taigu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "河北省",
+        "value": "hebei",
+        "children": [
+          {
+            "label": "石家庄市",
+            "value": "shijiazhuang",
+            "children": [
+              {
+                "label": "长安区",
+                "value": "changan"
+              },
+              {
+                "label": "桥西区",
+                "value": "qiaoxi"
+              },
+              {
+                "label": "新华区",
+                "value": "xinhua"
+              }
+            ]
+          },
+          {
+            "label": "保定市",
+            "value": "baoding",
+            "children": [
+              {
+                "label": "竞秀区",
+                "value": "jingxiu"
+              },
+              {
+                "label": "莲池区",
+                "value": "lianchi"
+              }
+            ]
+          },
+          {
+            "label": "唐山市",
+            "value": "tangshan",
+            "children": [
+              {
+                "label": "路南区",
+                "value": "lunan"
+              },
+              {
+                "label": "路北区",
+                "value": "lubei"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "辽宁省",
+        "value": "liaoning",
+        "children": [
+          {
+            "label": "沈阳市",
+            "value": "shenyang",
+            "children": [
+              {
+                "label": "和平区",
+                "value": "heping"
+              },
+              {
+                "label": "沈河区",
+                "value": "shenhe"
+              },
+              {
+                "label": "皇姑区",
+                "value": "huanggu"
+              }
+            ]
+          },
+          {
+            "label": "大连市",
+            "value": "dalian",
+            "children": [
+              {
+                "label": "中山区",
+                "value": "zhongshan"
+              },
+              {
+                "label": "西岗区",
+                "value": "xigang"
+              },
+              {
+                "label": "沙河口区",
+                "value": "shahekou"
+              }
+            ]
+          },
+          {
+            "label": "鞍山市",
+            "value": "anshan",
+            "children": [
+              {
+                "label": "铁东区",
+                "value": "tiedong"
+              },
+              {
+                "label": "铁西区",
+                "value": "tiexi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "内蒙古自治区",
+        "value": "neimenggu",
+        "children": [
+          {
+            "label": "呼和浩特市",
+            "value": "huhehaote",
+            "children": [
+              {
+                "label": "回民区",
+                "value": "huimin"
+              },
+              {
+                "label": "新城区",
+                "value": "xincheng"
+              },
+              {
+                "label": "玉泉区",
+                "value": "yuquan"
+              }
+            ]
+          },
+          {
+            "label": "包头市",
+            "value": "baotou",
+            "children": [
+              {
+                "label": "昆都仑区",
+                "value": "kundulun"
+              },
+              {
+                "label": "青山区",
+                "value": "qingshan"
+              }
+            ]
+          },
+          {
+            "label": "鄂尔多斯市",
+            "value": "eerduosi",
+            "children": [
+              {
+                "label": "东胜区",
+                "value": "dongsheng"
+              },
+              {
+                "label": "康巴什区",
+                "value": "kangbashi"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "label": "天津市",
+        "value": "tianjin",
+        "children": [
+          {
+            "label": "和平区",
+            "value": "heping"
+          },
+          {
+            "label": "河东区",
+            "value": "hedong"
+          },
+          {
+            "label": "河西区",
+            "value": "hexi"
+          },
+          {
+            "label": "南开区",
+            "value": "nankai"
+          },
+          {
+            "label": "河北区",
+            "value": "hebei"
+          },
+          {
+            "label": "红桥区",
+            "value": "hongqiao"
           }
         ]
       }
